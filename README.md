@@ -2,7 +2,7 @@
 ### Criação e execução de testes através de método no-code: Sem a necessidade de escrita de código
 
 <p align="center">
-  <img src="./ufpe.png" />
+  <img src="./ufpe.jpeg" />
 </p>
 
 ### Resumo:
